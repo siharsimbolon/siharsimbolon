@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @siharsimbolon
+- 👀 I’m interested in backend programming and database administration
+- 🌱 I’m currently learning nodejs
+- 📫 reach me at sihar@oreon.id
